@@ -1,0 +1,13 @@
+.first_title { 
+    color: rgb(255, 0, 0);
+    
+}
+.recipe_list{
+    color: rgb(rgba(255, 0, 0, 0), green, blue);
+    
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(253, 253, 253);
+}
