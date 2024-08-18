@@ -1,14 +1,23 @@
 .dish_name{
     color: rgb(253, 0, 0);
     font-family:'Times New Roman', "Cambria", "Cochin", Georgia, Times, serif;
+    background-color: aliceblue;
+    text-align: center;
 }
 .step_content{
     font-style: italic;
     font-weight: bold;
 }
-
+img{
+    display: block;
+    border: 10px solid aliceblue;
+    margin: auto;
+}
 
 #content{
     color: rgb(253, 0, 0) ;
     font-family: 'Times New Roman', "Cambria", "Cochin", Georgia, Times, serif; ;
+    display:block;
+    background-color: aliceblue;
 }
+ 

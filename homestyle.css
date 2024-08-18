@@ -1,13 +1,27 @@
 .first_title { 
-    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color: rgb(141, 45, 7);
+    padding: 15px;
+    border: 5px dashed whitesmoke;
     
 }
 .recipe_list{
-    color: rgb(rgba(255, 0, 0, 0), green, blue);
-    
+    color: black;
+    font-size: larger;
     font-style: italic;
+    padding: -20px;
+    
 }
 
 body{
-    background-color: rgb(253, 253, 253);
+    background-color: whitesmoke;
 }
+
+.first,.second,.third{
+    padding: 5px;
+    border: 5px solid black;
+    background-color: burlywood;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
